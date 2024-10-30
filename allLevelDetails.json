@@ -1,3 +1,6 @@
 [
-    {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0}
+    {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0},
+    {"name": "Movies 2", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0},
+    {"name": "Movies 3", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0},
+    {"name": "Movies 4", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0}
 ]
