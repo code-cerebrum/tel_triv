@@ -10,6 +10,6 @@
     {"name": "Actors 3", "lvls": 20, "cost": 0, "star": 0, "cover": 13},
     {"name": "Movies 7", "lvls": 19, "cost": 0, "star": 0, "is_star": true, "cover": 0},
     {"name": "Movies 8", "lvls": 20, "cost": 0, "star": 0, "is_star": true, "cover": 0},
-    {"name": "Movies 8", "lvls": 15, "cost": 0, "star": 0, "is_star": true, "cover": 0},
-    {"name": "Movies 9", "lvls": 17, "cost": 0, "star": 0, "is_star": true, "cover": 0}
+    {"name": "Movies 9", "lvls": 15, "cost": 0, "star": 0, "is_star": true, "cover": 0},
+    {"name": "Movies 10", "lvls": 17, "cost": 0, "star": 0, "is_star": true, "cover": 0}
 ]
