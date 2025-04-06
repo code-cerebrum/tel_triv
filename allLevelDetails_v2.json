@@ -11,5 +11,5 @@
     {"name": "Movies 8", "lvls": 20, "cost": 1200, "star": 119, "is_star": true, "cover": 0},
     {"name": "Actors 3", "lvls": 20, "cost": 700, "star": null, "cover": 7},
     {"name": "Movies 9", "lvls": 20, "cost": 1400, "star": 136, "is_star": true, "cover": 0},
-    {"name": "Movies 10", "lvls": 20, "cost": 1500, "star": 153, "is_star": true, "cover": 0}
+    {"name": "Movies 10", "lvls": 17, "cost": 1500, "star": 153, "is_star": true, "cover": 0}
 ]
